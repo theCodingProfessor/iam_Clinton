@@ -15,7 +15,8 @@
 ---
 
 ### 👥 User Data Management  
-[GitHub Link](https://github.com/theCodingProfessor/Round_Trip_Data_Python_Flask_MongoDB)  
+[Full Application Profile](Round_Trip_Data_App_Garwood_Clinton.md)<br>
+[Repository on GitHub](https://github.com/theCodingProfessor/Round_Trip_Data_Python_Flask_MongoDB)<br>
 > **Functionality**: A web app for storing user data in a NoSQL database.  
 > **Stack**: HTML/CSS, Python, Flask, MongoDB  
 > **License**: MIT License, 2024  
@@ -24,6 +25,7 @@
 ---
 
 ### 📝 In-Browser Notepad  
+[Full Application Profile](Browser_Notepad_App_Garwood_Clinton.md)<br>
 [GitHub Link](https://github.com/theCodingProfessor/In_Browser_Notepad_App)  
 > **Functionality**: A lightweight in-browser notepad app for taking and storing notes.  
 > **Stack**: HTML/CSS, JavaScript, LocalStorage  
