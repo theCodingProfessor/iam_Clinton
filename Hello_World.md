@@ -17,7 +17,7 @@ I bring a strong foundation of best practices to programming and web application
 
 ### Programming and Project Experience
 [Experience Full List](Experience/Experience_Summary_Garwood_Clinton.md)
-  - [Code and Apps List](Code_Apps/Open_Source_Apps_Summary_Garwood_Clinton.md)
+  - [Code and Apps List](Code_Apps/A_Summary_Open_Source_Apps_Garwood_Clinton)
   - [Data Scientist USGS](Experience/Visiting_Scientist_USGS_Garwood_Clinton.md)
   - [Faculty Joliet Junior College](Experience/Faculty_Joliet_Junior_College_Garwood_Clinton.md)
 
