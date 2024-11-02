@@ -1,6 +1,8 @@
 ## 🌐 Applications and Code Libraries  
 
-> A collection of noteworthy open-source applications and code libraries developed for various use cases, including productivity, data management, and education.
+> A collection of noteworthy open-source applications and code libraries developed for various use cases, including productivity, data management, and education. This project is: 
+> 
+> ![Portfolio Repository](/img/gh_codingprofessor_iam_clinton.png)
 
 <hr>
 
@@ -72,12 +74,15 @@
 
 ---
 
-### 🔢 The Luhn Algorithm Validator  
+
+### ![The Luhn Algorithm Validator](/img/gh_garwoodpr_luhn.png) <br>
 [PyPi Link](https://pypi.org/project/Luhn_Algorithm_Validator/)  
+[GitHub Link](https://github.com/garwoodpr/LuhnAlgorithmProof)
 > **Functionality**: A validator for credit card numbers, based on the Luhn algorithm.  
 > **Stack**: Python  
 > **License**: MIT License, 2015  
-> **Tags**: `Financial Services`, `Account Validation`
+> **Tags**: `Financial Services`, `Account Validation` <br>
+
 
 <hr>
 
