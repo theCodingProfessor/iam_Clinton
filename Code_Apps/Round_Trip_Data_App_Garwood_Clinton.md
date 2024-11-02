@@ -18,13 +18,13 @@ In this app, information completes a full-stack round-trip:
 
 [GitHub Repository](https://github.com/theCodingProfessor/Round_Trip_Data_Python_Flask_MongoDB)
 
-### Notepad Home 
+### App Home 
 ![App Home](../img/app_img/app_home_700.png 'The home page for the data application.') 
 
-### Notepad Form Entry
+### User Form Entry
 ![App Form](../img/app_img/app_form_700.png 'The web form used to collect information from the website visitor.') <br>
 
-### Notepad Notes Page 
+### New User Confirmation 
 ![App User](../img/app_img/new_user_700.png 'The information received from the user is displayed.') 
 
 ### App Database Table Display
@@ -33,19 +33,3 @@ In this app, information completes a full-stack round-trip:
 
 &copy; Clinton Garwood  
 [Home](../Hello_World.md) | [Work](../Experience) | [Apps](../Code_Apps) | [Degrees](../Degrees) 
-
-### App Home 
-![Notepad Home](../img/app_img/notepad_home.png 'The home page for the Notepad App.') 
-
-### Notepad New Note Entry Form
-![Notepad Form](../img/app_img/notepad_entry.png 'The web form used to collect information from the website visitor.') <br>
-
-### Notepad All Note Display 
-![Notes Display](../img/app_img/notepad_list.png 'All notes received from the user are displayed.') 
-
-### Notepad About Page
-![About Notepad](../img/app_img/notepad_about.png 'General data about the Notepad App.')
-
-### Notepad Limitations
-![Notepad Limits](../img/app_img/notepad_limits.png 'Statement on limits of the Notepad App.')
-<hr><br>
