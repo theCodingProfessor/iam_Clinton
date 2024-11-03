@@ -1,50 +1,58 @@
-
 ## Hello World, I am Clinton Garwood.
 
 ---
 
-The resume data presented here is of a background biographical nature, and is subject to update, removal and change without notice.
+### Welcome to My Portfolio
 
-There are no NDA covered or incubated projects described in this repository. 
+This collection highlights my career journey across programming and software development projects, public relations and brand roles, and collaborative data science initiatives.
 
----
+My focus is on aligning accessible design with technical implementation in diverse team projects, including data-driven applications, educational resources, intellectual property development, and strategic goal-setting.
 
-## Professional Overview 
-My background is very diverse with experience in product design, intellectual property (ip) creation, brand strategy development, and data science project management. 
+### Professional Highlights
+- **Application Development**: Design and build full-stack web applications and data management systems using Python, Flask, JavaScript, SQL, and MongoDB.
+- **Programming Education Resources**: Design and teach university-level programming courses that bridge foundational and modern computer science concepts with practical coding skills.
+- **Public Relations and Brand Strategy**: Develop and manage brand campaigns from national to local markets for technology, safety, and consumer goods sectors.
+- **Research Collaboration**: Conceive, develop, and facilitate high-profile data science and field research partnership projects.
 
-### Software Design, Full Stack Development
-I bring a strong foundation of best practices to programming and web applications projects, from design through implementation in academic and applied settings. I aspire to elevate society through accessible technology.
-
-### Programming and Project Experience
-[Experience Full List](Experience/_Experience_Summary_Garwood_Clinton)
-  - [Code and Apps List](Code_Apps/_Summary_Open_Source_Apps_Garwood_Clinton)
-  - [Data Scientist USGS](Experience/Visiting_Scientist_USGS_Garwood_Clinton.md)
-  - [Faculty Joliet Junior College](Experience/Faculty_Joliet_Junior_College_Garwood_Clinton.md)
-
-
-&nbsp;&nbsp;![Weighted Roles](Docs/img/garwood_role_bars_300w.png "Weighted Roles Chart")
-
-*Five-Year Role Weight Comparison*
+This portfolio provides a background overview and may be updated or revised periodically. No NDA-covered or incubated projects are included in this repository.
 
 ---
 
-### Skills and Tools
-- [Summary List Skills and Tools](Experience/Skills_Tools_Summary_Garwood_Clinton.md)
-- [Summary Personal Technology Timeline](Experience/Technology_Timeline_Garwood_Clinton.md)
+### Software Design & Full Stack Development
+With a strong foundation in best practices, I bring both academic and applied experience to programming and web application projects, from design to implementation, with the goal of creating accessible technology solutions.
+
+- [Experience Overview](Experience/_Experience_Summary_Garwood_Clinton)
+  - [Code and Apps Overview](Code_Apps/_Summary_Open_Source_Apps_Garwood_Clinton)
+  - [Faculty, Joliet Junior College](Experience/Faculty_Joliet_Junior_College_Garwood_Clinton.md)
+
+---
+
+### Project Management & Client Representation
+I am committed to client relationship management, confidentiality, data privacy, and strategic goal alignment in brand representation and research projects.
+
+- [Experience Overview](Experience/_Experience_Summary_Garwood_Clinton)
+  - [Data Scientist, USGS](Experience/Visiting_Scientist_USGS_Garwood_Clinton.md)
+  - [Consultant, Brand, Publicity](Experience/Publicity_Consultant_Garwood_Clinton.md)
+  - [Patents, Summary and List](Experience/Patents/Patent_Summary.md)
+
+---
+
+### Technical Skills & Tools
+- [Technical Skills & Tools Overview](Experience/Skills_Tools_Summary_Garwood_Clinton.md)
+- [Personal Technology Timeline](Experience/Technology_Timeline_Garwood_Clinton.md)
 
 &nbsp;&nbsp;![Skills Wheel](Docs/img/garwood_skills_wheel_300w.png "Skills Wheel")
 
-*Programming Skill Highlights*
+---
+
+### Academic & Learning Pathway Highlights
+- [Degree Overview](Degrees/_Degrees_List_Garwood_Clinton)
+  - [M.S. Computer Science, Governors State University](Degrees/MS_Governors_State_University_Garwood_Clinton.md)
+  - [A.A.S. Computer Programming, Joliet Junior College](Degrees/AAS_Joliet_Junior_College_Garwood_Clinton.md)
+  - [Certificates in Database, Programming, and IT, University of Washington](Degrees/University_of_Washington_Garwood_Clinton.md)
 
 ---
 
-### Academic and Learning Pathway
-- [Degree Full List](Degrees/_Degrees_List_Garwood_Clinton)
-  - [M.S. Computer Science Governors State University](Degrees/MS_Governors_State_University_Garwood_Clinton.md)
-  - [A.A.S. Computer Programming Joliet Junior College](Degrees/AAS_Joliet_Junior_College_Garwood_Clinton.md)
-  - [Database, Programming, IT Certificates University of Washington](Degrees/University_of_Washington_Garwood_Clinton.md)
-
-<hr>
-
 &copy; Clinton Garwood  
-[Home](./Hello_World.md) | [Work](./Experience) | [Apps](./Code_Apps) | [Degrees](./Degrees) 
+[Home](./Hello_World.md) | [Work](./Experience) | [Apps](./Code_Apps) | [Degrees](./Degrees)
+```
