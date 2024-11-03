@@ -5,18 +5,21 @@ UNOFFICIAL STUDENT TRANSCRIPT
 
 ---
 
+**University of Washington**  <br>
+Interdisciplinary Undergraduate Program  <br>
+Seattle, WA  <br>
+
+**Certificates Awarded**:  <br>
+
+- **Python Programming** — September 3, 2015  <br>
+- **Information Technology Foundations** — December 10, 2014  <br>
+- **Database Administration** — June 4, 2014  <br>
+- **Web Technology Solutions** — August 23, 2013  <br>
+
+---
+
+### Student Record Report 
 ``` text 
-University of Washington, Seattle WA
-Interdisciplinary Undergraduate Program
-
-Designations awarded by the University of Washigton
-to student Clinton Garwood include:
-
-  Certificate Python Programming; 09/03/2015 
-  Certificate Information Technology Foundations; 12/10/2014 
-  Certificate Database Administration; 06/04/2014 
-  Certificate Web Technology Solutions; 8/23/2013 
-
 Summer-2015: PYTHON-DL-300 System Development in Python (3 CR)
 Spring-2015: PYTHON-DL-200 Internet Programming in Python (3 CR)
 Winter-2015: PYTHON-DL-100 Programming in Python (3 CR)

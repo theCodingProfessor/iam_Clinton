@@ -5,15 +5,20 @@ UNOFFICIAL STUDENT TRANSCRIPT
 
 ---
 
+**Joliet Junior College**<br>
+Computer Information Office Systems Department<br>
+Joliet, IL<br>
+
+**Degree Awarded**:
+
+**Associate of Applied Sciences Computer Programming**<br>
+Date of Award: May 2018, High Honors, GPA 4.0<br>
+Phi Theta Kappa 02/17/2018<br>
+
+---
+
+### Student Record Report 
 ``` text 
-Joliet Junior College, Joliet IL
-Computer Information Office Systems Department
-
-Degrees and designations awarded by Joliet Junior College 
-to student Clinton Garwood include:
-  AAS Associate of Applied Sciences (CO261) in Computer Programming with High Honors; 05/18/2018 
-  Phi Theta Kappa; 02/17/2018 
-
 2018-Summer
   CIS-299 Cloud Essentials (3 CR) [Grade: A]
 
@@ -31,7 +36,7 @@ to student Clinton Garwood include:
 2017-Summer
   CIS-236 Programming in C (4 CR) [Grade: A]
 
-2007-Spring
+2017-Spring
   CIS-230 Visual Basic (4 CR) [Grade: A]
   CIS-250 System Analysis & Design (3 CR) [Grade: A]
   EET-102 Electrical Soldering Circuitry (2 CR) [Grade: A]

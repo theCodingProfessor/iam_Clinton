@@ -5,14 +5,19 @@ UNOFFICIAL STUDENT TRANSCRIPT
 
 ---
 
+**Governor's State University**<br>
+Division of Science, Mathematics, and Technology<br>
+University Park, IL<br>
+
+**Degree Awarded**:<br>
+
+**Master of Science in Computer Science**<br>
+Date of Award: May 2021, Summa Cum Laude, GPA 4.0<br>
+
+--- 
+
+### Student Record Report 
 ``` text 
-Governor's State University, University Park IL
-Division of Science Mathematics and Technology
-
-Degree awarded by Governors State University 
-to student Clinton Garwood includes:
-  Master of Science in Computer Science; 05/2021 
-
 2021-Spring
   CPSC-6730 Big Data Analytics (3 CR) [Grade: A]
   CPSC-6648 Advanced Programming Using Java (3 CR) [Grade: A]
