@@ -2,8 +2,7 @@
 
 This template app can be extended to create more complex data management applications.
 
-In this app, information completes a full-stack round-trip:
-
+> In this app, information completes a full-stack round-trip:
 > 1) Text is entered in a web form.
 > 2) Flask and Python sanitize and route the information.
 > 3) MongoDB securely stores the data.
@@ -11,7 +10,7 @@ In this app, information completes a full-stack round-trip:
 
 **Functionality**: Web application for managing user data in a NoSQL database.  
 **Stack**: Python, Flask, HTML/CSS, MongoDB/Atlas, JavaScript  
-**License**: MIT License, 2024  
+**License**: MIT License, 2024 
 **Tags**: `Data Management`, `Database`, `Access Control`, `Tutorial`
 
 ---
@@ -29,7 +28,8 @@ In this app, information completes a full-stack round-trip:
 
 ### App Database Table Display
 ![App Show](../img/app_img/show_users_700.png 'The records from the MongoDB data store are display.')
-<hr><br>
+
+<hr>
 
 &copy; Clinton Garwood  
 [Home](../Hello_World.md) | [Work](../Experience) | [Apps](../Code_Apps) | [Degrees](../Degrees) 

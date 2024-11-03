@@ -1,6 +1,9 @@
 ## 📝 In-Browser Notepad Application
 
-This notepad application lets website visitors create, edit, and delete notes directly in their web browser (e.g., Firefox, Chrome). There are no accounts, service logins, or downloads required; the data lives only on the device where it was created, ensuring privacy and simplicity.
+This notepad application lets website visitors create, edit,
+and delete notes directly in their web browser (for example, Firefox, Chrome).
+There are no accounts, service logins, or downloads required;
+the data lives only on the device where it was created, ensuring privacy and simplicity.
 
 ### Application Overview
 
@@ -31,6 +34,7 @@ The app uses the browser’s HTML5 `localStorage` to save notes, with storage ca
 **Tags**: `Productivity`, `To-Do`, `LocalStorage`, `Tutorial`
 
 ---
+
 [GitHub Repository](https://github.com/theCodingProfessor/Round_Trip_Data_Python_Flask_MongoDB)
 
 ### Notepad Home 
@@ -47,9 +51,8 @@ The app uses the browser’s HTML5 `localStorage` to save notes, with storage ca
 
 ### Notepad Limitations
 ![Notepad Limits](../img/app_img/notepad_limits.png 'Statement on limits of the Notepad App.')
-<hr><br>
-<hr><br>
+
+<hr>
 
 &copy; Clinton Garwood  
 [Home](../Hello_World.md) | [Work](../Experience) | [Apps](../Code_Apps) | [Degrees](../Degrees) 
-

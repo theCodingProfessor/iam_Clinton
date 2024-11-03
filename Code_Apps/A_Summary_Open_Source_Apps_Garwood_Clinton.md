@@ -15,8 +15,11 @@
 ---
 
 ### 👥 User Data Management  
+
 [Full Application Profile](Round_Trip_Data_App_Garwood_Clinton.md)<br>
+
 [Repository on GitHub](https://github.com/theCodingProfessor/Round_Trip_Data_Python_Flask_MongoDB)<br>
+
 > **Functionality**: A web app for storing user data in a NoSQL database.  
 > **Stack**: HTML/CSS, Python, Flask, MongoDB  
 > **License**: MIT License, 2024  
@@ -25,12 +28,27 @@
 ---
 
 ### 📝 In-Browser Notepad  
+
 [Full Application Profile](Browser_Notepad_App_Garwood_Clinton.md)<br>
+
 [GitHub Link](https://github.com/theCodingProfessor/In_Browser_Notepad_App)  
+
 > **Functionality**: A lightweight in-browser notepad app for taking and storing notes.  
 > **Stack**: HTML/CSS, JavaScript, LocalStorage  
 > **License**: MIT License, 2023  
 > **Tags**: `Productivity`, `To-Do`, `LocalStorage`, `Tutorial`
+
+---
+
+### 🐍 Introduction to Programming with Python  
+
+[Full Application Profile](Python_Skills_Series_Garwood_Clinton.md)<br>
+
+[GitHub Link](https://github.com/theCodingProfessor/intro_to_Python)  
+> **Functionality**: A Python coding skills development series, aligned with IAI Computer Science CS 911 standards.  
+> **Stack**: Python  
+> **License**: MIT License, 2022  
+> **Tags**: `Education`, `Programming`, `Python`
 
 ---
 
@@ -52,15 +70,6 @@
 
 ---
 
-### 🐍 Introduction to Programming with Python  
-[GitHub Link](https://github.com/theCodingProfessor/intro_to_Python)  
-> **Functionality**: A Python coding skills development series, aligned with IAI Computer Science CS 911 standards.  
-> **Stack**: Python  
-> **License**: MIT License, 2022  
-> **Tags**: `Education`, `Programming`, `Python`
-
----
-
 ### 🎓 Graduate Seminar Project – "Better Reviews"  
 > **Functionality**: A community review website developed as a graduate seminar project.  
 > **Stack**: C#, MSSQL Server  
@@ -72,16 +81,20 @@
 [GitHub Link](https://github.com/theCodingProfessor/javaRoulette)  
 > **Functionality**: A roulette game app developed as part of a student project skills challenge.  
 > **Stack**: Java  
+> **License**: MIT License, 2019  
 > **Tags**: `Game Development`, `Java`, `Student Project`
 
 ---
 
 
 ### ![The Luhn Algorithm Validator](/img/gh_garwoodpr_luhn.png) <br>
+
 [PyPi Link](https://pypi.org/project/Luhn_Algorithm_Validator/)  
+
 [GitHub Link](https://github.com/garwoodpr/LuhnAlgorithmProof)
+
 > **Functionality**: A validator for credit card numbers, based on the Luhn algorithm.  
-> **Stack**: Python  
+> **Stack**: Python 
 > **License**: MIT License, 2015  
 > **Tags**: `Financial Services`, `Account Validation` <br>
 
