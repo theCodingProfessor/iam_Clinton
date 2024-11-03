@@ -82,7 +82,7 @@ To the best that my wetware memory can recall, this is a compendium of explorati
 ---
 
 #### Windows 11 Developer Rig November 2024</h2>
-![Dev Desktop](../img/desktop_garwood_developer_1112024_500w.png "Developer Desktop")
+![Dev Desktop](../Docs/img/desktop_garwood_developer_1112024_500w.png "Developer Desktop")
 
 'The most efficient way to reverse sort a list often depends on the circumstances, but look to standard libraries first for accurate and tested outcomes.' ~ me
 

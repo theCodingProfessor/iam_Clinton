@@ -61,13 +61,13 @@ This library is a valuable tool for:
 [GitHub Repository](https://github.com/theCodingProfessor/Round_Trip_Data_Python_Flask_MongoDB)
 
 ### Code Instructions/Challlenges
-![Notepad Home](../img/app_img/python_resource_in_editor.png 'Instructions Page in Python Series.') 
+![Notepad Home](../Docs/img/app_img/python_resource_in_editor.png 'Instructions Page in Python Series.') 
 
 ### Writing Code 
-![Notepad Home](../img/app_img/python_resource_dictionary.png 'Code in Python Series.') 
+![Notepad Home](../Docs/img/app_img/python_resource_dictionary.png 'Code in Python Series.') 
 
 ### Running Code
-![Notepad Home](../img/app_img/python_resource_user_data.png 'Running App in Python Series..') 
+![Notepad Home](../Docs/img/app_img/python_resource_user_data.png 'Running App in Python Series..') 
 
 
 <hr>

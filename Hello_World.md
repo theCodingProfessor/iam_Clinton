@@ -22,7 +22,7 @@ I bring a strong foundation of best practices to programming and web application
   - [Faculty Joliet Junior College](Experience/Faculty_Joliet_Junior_College_Garwood_Clinton.md)
 
 
-&nbsp;&nbsp;![Weighted Roles](img/garwood_role_bars_300w.png "Weighted Roles Chart")
+&nbsp;&nbsp;![Weighted Roles](Docs/img/garwood_role_bars_300w.png "Weighted Roles Chart")
 
 *Five-Year Role Weight Comparison*
 
@@ -32,7 +32,7 @@ I bring a strong foundation of best practices to programming and web application
 - [Summary List Skills and Tools](Experience/Skills_Tools_Summary_Garwood_Clinton.md)
 - [Summary Personal Technology Timeline](Experience/Technology_Timeline_Garwood_Clinton.md)
 
-&nbsp;&nbsp;![Skills Wheel](img/garwood_skills_wheel_300w.png "Skills Wheel")
+&nbsp;&nbsp;![Skills Wheel](Docs/img/garwood_skills_wheel_300w.png "Skills Wheel")
 
 *Programming Skill Highlights*
 

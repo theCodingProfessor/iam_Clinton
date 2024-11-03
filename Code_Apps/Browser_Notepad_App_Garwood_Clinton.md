@@ -38,19 +38,19 @@ The app uses the browser’s HTML5 `localStorage` to save notes, with storage ca
 [GitHub Repository](https://github.com/theCodingProfessor/Round_Trip_Data_Python_Flask_MongoDB)
 
 ### Notepad Home 
-![Notepad Home](../img/app_img/notepad_home.png 'The home page for the Notepad App.') 
+![Notepad Home](../Docs/img/app_img/notepad_home.png 'The home page for the Notepad App.') 
 
 ### Notepad New Note Entry Form
-![Notepad Form](../img/app_img/notepad_entry.png 'The web form used to collect information from the website visitor.') <br>
+![Notepad Form](../Docs/img/app_img/notepad_entry.png 'The web form used to collect information from the website visitor.') <br>
 
 ### Notepad All Note Display 
-![Notes Display](../img/app_img/notepad_list.png 'All notes received from the user are displayed.') 
+![Notes Display](../Docs/img/app_img/notepad_list.png 'All notes received from the user are displayed.') 
 
 ### Notepad About Page
-![About Notepad](../img/app_img/notepad_about.png 'General data about the Notepad App.')
+![About Notepad](../Docs/img/app_img/notepad_about.png 'General data about the Notepad App.')
 
 ### Notepad Limitations
-![Notepad Limits](../img/app_img/notepad_limits.png 'Statement on limits of the Notepad App.')
+![Notepad Limits](../Docs/img/app_img/notepad_limits.png 'Statement on limits of the Notepad App.')
 
 <hr>
 

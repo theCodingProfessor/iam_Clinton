@@ -2,7 +2,7 @@
 
 > A collection of noteworthy open-source applications and code libraries developed for various use cases, including productivity, data management, and education. This project is: 
 > 
-> ![Portfolio Repository](/img/gh_codingprofessor_iam_clinton.png)
+> ![Portfolio Repository](/Docs/img/gh_codingprofessor_iam_clinton.png)
 
 <hr>
 
@@ -87,7 +87,7 @@
 ---
 
 
-### ![The Luhn Algorithm Validator](/img/gh_garwoodpr_luhn.png) <br>
+### ![The Luhn Algorithm Validator](/Docs/img/gh_garwoodpr_luhn.png) <br>
 
 [PyPi Link](https://pypi.org/project/Luhn_Algorithm_Validator/)  
 

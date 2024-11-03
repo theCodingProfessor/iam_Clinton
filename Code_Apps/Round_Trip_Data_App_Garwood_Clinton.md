@@ -18,16 +18,16 @@ This template app can be extended to create more complex data management applica
 [GitHub Repository](https://github.com/theCodingProfessor/Round_Trip_Data_Python_Flask_MongoDB)
 
 ### App Home 
-![App Home](../img/app_img/app_home_700.png 'The home page for the data application.') 
+![App Home](../Docs/img/app_img/app_home_700.png 'The home page for the data application.') 
 
 ### User Form Entry
-![App Form](../img/app_img/app_form_700.png 'The web form used to collect information from the website visitor.') <br>
+![App Form](../Docs/img/app_img/app_form_700.png 'The web form used to collect information from the website visitor.') <br>
 
 ### New User Confirmation 
-![App User](../img/app_img/new_user_700.png 'The information received from the user is displayed.') 
+![App User](../Docs/img/app_img/new_user_700.png 'The information received from the user is displayed.') 
 
 ### App Database Table Display
-![App Show](../img/app_img/show_users_700.png 'The records from the MongoDB data store are display.')
+![App Show](../Docs/img/app_img/show_users_700.png 'The records from the MongoDB data store are display.')
 
 <hr>
 

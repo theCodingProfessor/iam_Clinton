@@ -34,6 +34,7 @@ An overview of professional roles, projects, and experiences. Project summaries 
 ---
 
 ### Consultant
+[Publicity Programs](Publicity_Consultant_Garwood_Clinton.md)
 > **Organization**: Garwood PR; 10 years<br>
 > **Role**: Publicity and Brand Strategy Consultant <br>
 > Developed national brand awareness campaigns and communications strategies. 
