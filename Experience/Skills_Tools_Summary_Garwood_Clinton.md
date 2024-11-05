@@ -13,7 +13,7 @@
 
 #### Programming Languages  
 - **General Purpose**: Python (2 & 3), Java, C, C++, C#, R  
-- **Web Development**: JavaScript, Node.js, PHP, Ruby on Rails  
+- **Web Development**: JavaScript, Node.js, PHP, Ruby  
 - **Scripting & Automation**: Bash, PowerShell, Perl  
 - **Legacy & Miscellaneous**: BASIC, Visual Basic, ASP.NET Core  
 
