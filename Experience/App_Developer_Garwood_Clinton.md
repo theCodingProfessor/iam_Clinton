@@ -1,13 +1,13 @@
 
 ## Open Source App Developer
 
-Nearly a decade ago I released my first open source application Python Application, the Luhn Algorithm on PyPi.org (links at end). 
+Nearly a decade ago I released my first open source Python Application, the Luhn Algorithm on PyPi.org. 
 
-I develop and maintain a collection of open source productivity applications which are used as `code templates` for other full stack developers to extend and customize as their project needs require.  
+I actively develop and maintain a collection of open source productivity applications, that are `code templates` other full stack developers can use and extend for their own projects.
 
-In addition to actively participating in my local community college developer groups, and I've also volunteered technical proofreading services to meaningful open source projects including Mozilla and Django.
+In addition to collaborating with local community college developer groups, I've also volunteered technical proofreading services to meaningful open source projects including Mozilla and Django.
 
-I believe open source technology is a solution to many larger societal ills, and I look forward to collaborating with developers who embrace an open source code philosophy. 
+I believe the collaborative and innovative success that are exemplified by open source projects can be transferred into successes for complex societal challenges. I seek to collaborate with others who embrace the open source code philosophy. 
 
 
 ---
@@ -21,7 +21,7 @@ I believe open source technology is a solution to many larger societal ills, and
 > **Functionality**: A web app for storing user data in a NoSQL database.  
 > **Stack**: HTML/CSS, Python, Flask, MongoDB  
 > **License**: MIT License, 2024  
-> **Tags**: `Data Management`, `Database`, `Access Control`, `Tutorial`
+> **Tags**: `Data Management`, `Database`, `Access Control`, `Tutorial`, `Code Examples`
 
 ---
 
@@ -34,7 +34,7 @@ I believe open source technology is a solution to many larger societal ills, and
 > **Functionality**: A lightweight in-browser notepad app for taking and storing notes.  
 > **Stack**: HTML/CSS, JavaScript, LocalStorage  
 > **License**: MIT License, 2023  
-> **Tags**: `Productivity`, `To-Do`, `LocalStorage`, `Tutorial`
+> **Tags**: `Productivity`, `To-Do`, `LocalStorage`, `Tutorial`, `Developer Education`
 
 ---
 
@@ -42,7 +42,7 @@ I believe open source technology is a solution to many larger societal ills, and
 ### 📰 Blog App  
 [GitHub Link](https://github.com/theCodingProfessor/node_js_monodb_blog)  
 > **Functionality**: A blogging platform using MongoDB for document-based storage.  
-> **Stack**: HTML/CSS, JavaScript, Node.js, MongoDB  
+> **Stack**: HTML/CSS, JavaScript, node.js, MongoDB  
 > **License**: MIT License, 2022  
 > **Tags**: `Journaling`, `Document Storage`, `Web Development`, `Tutorial`
 
